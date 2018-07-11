@@ -1,0 +1,37 @@
+
+export const SET_STATION_TYPE = 'SET_STATION_TYPE'
+
+export const SET_STORE_STATION_OBJ = 'SET_STORE_STATION_OBJ'
+
+export const SET_PARAMS = 'SET_PARAMS'
+
+// 员工排版  Scheduling
+export const SET_EMP_SCHEDULING_OBJ = 'SET_EMP_SCHEDULING_OBJ'
+
+export const SET_EMP_LIST = 'SET_EMP_LIST'
+
+export const SET_EMP_TYPE = 'SET_EMP_TYPE'
+
+export const SET_POST_TYPE = 'SET_POST_TYPE'
+
+export const SET_EMP_PARAMS = 'SET_EMP_PARAMS'
+
+export const SET_STORE_INFO = 'SET_STORE_INFO'
+
+export const SET_REQUIRED_STORE = 'SET_REQUIRED_STORE'
+
+export const SET_EMP_STATUS = 'SET_EMP_STATUS'
+
+// 自采到货处理
+export const SET_ARRIVE_HANDLE_PARAMS = 'SET_ARRIVE_HANDLE_PARAMS'
+
+export const SET_ARRIVE_HANDLE_INFO = 'SET_ARRIVE_HANDLE_INFO'
+
+export const SET_CARD_INFO = 'SET_CARD_INFO'
+
+export const SET_RANGE_LIST = 'SET_RANGE_LIST'
+
+export const SET_CARD_SALES_ORDER_INFO = 'SET_CARD_SALES_ORDER_INFO' 
+
+
+

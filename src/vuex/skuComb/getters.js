@@ -1,0 +1,1 @@
+export const skuServiceInfo = state => state.skuServiceInfo

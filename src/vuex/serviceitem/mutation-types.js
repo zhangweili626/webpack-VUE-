@@ -1,0 +1,4 @@
+//设置查询页码
+export const SERVICE_SET_PAGE = 'SERVICE_SET_PAGE'
+
+export const SERVICE_SET_TABLELIST = 'SERVICE_SET_TABLELIST'

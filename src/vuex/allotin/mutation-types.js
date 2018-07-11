@@ -1,0 +1,3 @@
+export const ALLOT_SET_TABLELIST = 'ALLOT_SET_TABLELIST'
+
+export const ALLOT_SET_PAGE = 'ALLOT_SET_PAGE'
